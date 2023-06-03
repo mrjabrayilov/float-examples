@@ -1,0 +1,7 @@
+.content1, .content2{
+    float: left;
+}
+
+.copyright {
+    clear: both;
+}
